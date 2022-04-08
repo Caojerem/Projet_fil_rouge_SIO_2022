@@ -1,0 +1,17 @@
+SET hivevar:username=jcaocs;
+
+CREATE EXTERNAL TABLE cs_2022_spring_1.${username}_fil_rouge (
+  ID INT,
+  Title STRING,
+  Author STRING,
+  Upload_time STRING,
+  Upload_Year INT,
+  Categorie STRING
+)
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.OpenCSVSerde'
+WITH SERDEPROPERTIES (
+   "separatorChar" = ","
+)
+STORED AS TEXTFILE
+LOCATION '/education/cs_2022_spring_1/j.cao-cs/fil_rouge/'
+TBLPROPERTIES ('skip.header.line.count'='1');

@@ -1,0 +1,46 @@
+ID,Title,Author,Date,Year,Categorie
+0,Unsupervised Prompt Learning for Vision-Language Models,Tony_Huang,2022-04-07 17:59:57+00:00,2022,['cs.CV']
+1,Unsupervised Prompt Learning for Vision-Language Models,Jack_Chu,2022-04-07 17:59:57+00:00,2022,['cs.CV']
+2,Unsupervised Prompt Learning for Vision-Language Models,Fangyun_Wei,2022-04-07 17:59:57+00:00,2022,['cs.CV']
+3,SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage,Yifan_Wang,2022-04-07 17:59:51+00:00,2022,['cs.CV']
+4,SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage,Aleksander_Holynski,2022-04-07 17:59:51+00:00,2022,['cs.CV']
+5,SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage,Xiuming_Zhang,2022-04-07 17:59:51+00:00,2022,['cs.CV']
+6,SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage,Xuaner_Cecilia_Zhang,2022-04-07 17:59:51+00:00,2022,['cs.CV']
+7,Adapting CLIP For Phrase Localization Without Further Training,Jiahao_Li,2022-04-07 17:59:38+00:00,2022,"['cs.CV', 'cs.AI']"
+8,Adapting CLIP For Phrase Localization Without Further Training,Greg_Shakhnarovich,2022-04-07 17:59:38+00:00,2022,"['cs.CV', 'cs.AI']"
+9,Adapting CLIP For Phrase Localization Without Further Training,Raymond_A__Yeh,2022-04-07 17:59:38+00:00,2022,"['cs.CV', 'cs.AI']"
+10,DaViT: Dual Attention Vision Transformers,Mingyu_Ding,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+11,DaViT: Dual Attention Vision Transformers,Bin_Xiao,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+12,DaViT: Dual Attention Vision Transformers,Noel_Codella,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+13,DaViT: Dual Attention Vision Transformers,Ping_Luo,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+14,DaViT: Dual Attention Vision Transformers,Jingdong_Wang,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+15,DaViT: Dual Attention Vision Transformers,Lu_Yuan,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+16,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Jinglin_Xu,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+17,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Yongming_Rao,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+18,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Xumin_Yu,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+19,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Guangyi_Chen,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+20,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Jie_Zhou,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+21,FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment,Jiwen_Lu,2022-04-07 17:59:32+00:00,2022,['cs.CV']
+22,Total Variation Optimization Layers for Computer Vision,Raymond_A__Yeh,2022-04-07 17:59:27+00:00,2022,['cs.CV']
+23,Total Variation Optimization Layers for Computer Vision,Yuan_Ting_Hu,2022-04-07 17:59:27+00:00,2022,['cs.CV']
+24,Total Variation Optimization Layers for Computer Vision,Zhongzheng_Ren,2022-04-07 17:59:27+00:00,2022,['cs.CV']
+25,Total Variation Optimization Layers for Computer Vision,Alexander_G__Schwing,2022-04-07 17:59:27+00:00,2022,['cs.CV']
+26,"Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction",Kalyan_Vasudev_Alwala,2022-04-07 17:59:25+00:00,2022,['cs.CV']
+27,"Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction",Abhinav_Gupta,2022-04-07 17:59:25+00:00,2022,['cs.CV']
+28,"Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction",Shubham_Tulsiani,2022-04-07 17:59:25+00:00,2022,['cs.CV']
+29,Unsupervised Image-to-Image Translation with Generative Prior,Shuai_Yang,2022-04-07 17:59:23+00:00,2022,"['cs.CV', 'cs.LG']"
+30,Unsupervised Image-to-Image Translation with Generative Prior,Liming_Jiang,2022-04-07 17:59:23+00:00,2022,"['cs.CV', 'cs.LG']"
+31,Unsupervised Image-to-Image Translation with Generative Prior,Ziwei_Liu,2022-04-07 17:59:23+00:00,2022,"['cs.CV', 'cs.LG']"
+32,Unsupervised Image-to-Image Translation with Generative Prior,Chen_Change_Loy,2022-04-07 17:59:23+00:00,2022,"['cs.CV', 'cs.LG']"
+33,Equivariance Discovery by Learned Parameter-Sharing,Raymond_A__Yeh,2022-04-07 17:59:19+00:00,2022,"['cs.LG', 'cs.CV']"
+34,Equivariance Discovery by Learned Parameter-Sharing,Yuan_Ting_Hu,2022-04-07 17:59:19+00:00,2022,"['cs.LG', 'cs.CV']"
+35,Equivariance Discovery by Learned Parameter-Sharing,Mark_Hasegawa_Johnson,2022-04-07 17:59:19+00:00,2022,"['cs.LG', 'cs.CV']"
+36,Equivariance Discovery by Learned Parameter-Sharing,Alexander_G__Schwing,2022-04-07 17:59:19+00:00,2022,"['cs.LG', 'cs.CV']"
+37,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Songwei_Ge,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+38,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Thomas_Hayes,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+39,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Harry_Yang,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+40,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Xi_Yin,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+41,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Guan_Pang,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+42,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,David_Jacobs,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+43,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Jia_Bin_Huang,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
+44,Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer,Devi_Parikh,2022-04-07 17:59:02+00:00,2022,"['cs.CV', 'cs.AI']"
