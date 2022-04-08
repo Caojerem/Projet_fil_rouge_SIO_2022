@@ -42,5 +42,5 @@ L'image donnera les metadonnées de l'article le plus récent publé sur Arciv a
  
  ## Utilisation
  
- Lancer le Notebook
+ Lancer le Notebook, "Fil_Rouge.ipynb" dans le dossier src.
  
