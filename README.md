@@ -14,22 +14,22 @@ Dans le dossier src, se touve le code Python du projet sous forme de Notebook. C
 
 Pour commencer il faut clonner le repo Github
   
-  git clone https://github.com/Caojerem/Projet_fil_rouge_SIO_2022.git
+    git clone https://github.com/Caojerem/Projet_fil_rouge_SIO_2022.git
 
 Ensuite se placer dedans pour l'exécuter
 
-  cd Projet_fil_rouge_SIO_2022
+    cd Projet_fil_rouge_SIO_2022
  
 ## Sans Docker
   
 Créer un environnement virtuel
 
-  python3 -m .venv venv
-  . .venv/bin/activate
+    python3 -m .venv venv
+    . .venv/bin/activate
 
 Intaller les librairies néccessaires
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Docker
  
@@ -37,8 +37,8 @@ Pour information seulement les parties Récupération des PDF, Extraction des do
 
 L'image donnera les metadonnées de l'article le plus récent publé sur Arciv ainsi que les 5 pemiers noms des références
  
-  docker build -t filrouge .
-  docker run -d -p 80:80 filrouge
+    docker build -t filrouge .
+    docker run -d -p 80:80 filrouge
  
  ## Utilisation
  
