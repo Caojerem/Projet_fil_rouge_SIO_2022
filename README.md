@@ -25,7 +25,7 @@ Ensuite se placer dedans pour l'exécuter
 Créer un environnement virtuel
 
     python3 -m .venv venv
-    . .venv/bin/activate
+    source .venv/bin/activate
 
 Intaller les librairies néccessaires
 
